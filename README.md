@@ -13,8 +13,13 @@ slidemote
 
 ##Demo
 
-Go to [Slidemote](http://slidemote.jit.su) and enter following key and press connect. Once connected you are able to control this presentation. It will take a few seconds to connect, be patient. Don't refresh page, result will be a new key and you have to enter it again on 'slidemote.jit.su' to establish connection.
+[Demo slidemote](http://decodize.com/html/slidemote-universal-remote-control-for-html5-presentations/)
 
-Key: <input type="text" id="slidemoteCode" class="txtSlidemoteCode" placeholder="Your key">
-
-<iframe id="iframeRevealjs" src="http://demos.decodize.com/slidemote/revealjs/index.php" frameborder="0" width="100%" height="600"></iframe>
+##Screenshots
+***Revealjs controls***<br>
+![Revealjs](https://lh6.googleusercontent.com/-S0xne3Q_Q1M/URV4IL9AwXI/AAAAAAAAFKs/5SgrDTZ04qg/s512/slidemote-revealjs.jpg)<br>
+***Deckjs & Impressjs controls***<br>
+![Revealjs](https://lh4.googleusercontent.com/-QHEzN0zQhag/URV4HBI6b0I/AAAAAAAAFKc/wP8-a0Kgulk/s512/slidemote-deckjs.jpg)
+<br> 
+***Flowtime controls***<br>
+![Revealjs](https://lh5.googleusercontent.com/-0oK11Krj8XQ/URV4HPWHfKI/AAAAAAAAFKo/emPooYJ733Q/s512/slidemote-flowtime.jpg)
